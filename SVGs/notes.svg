@@ -14,9 +14,7 @@
    id="svg5027"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 14">
-  <title
-     id="title5098">Team Fortress 2 WinterBoard: Notes</title>
+   sodipodi:docname="notes.svg">
   <defs
      id="defs5029">
     <inkscape:perspective
@@ -33,6 +31,27 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5108"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5130"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5475"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -42,16 +61,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="9.0394921"
-     inkscape:cy="12.270862"
+     inkscape:cx="64.036978"
+     inkscape:cy="58.323757"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="550"
-     inkscape:window-height="483"
-     inkscape:window-x="50"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5032">
     <rdf:RDF>
@@ -60,7 +79,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Team Fortress 2 WinterBoard: Notes</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,18 +88,15 @@
      id="layer1"
      transform="translate(-405.73199,-612.48734)">
     <g
-       id="g5042-0"
-       transform="matrix(0.99806531,0,0,0.99806531,325.86129,333.73996)"
-       inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Public\iconmontage.png"
-       inkscape:export-xdpi="349.72098"
-       inkscape:export-ydpi="349.72098">
+       id="g5274"
+       transform="translate(78.274862,133.05907)">
       <g
          inkscape:export-ydpi="179.66"
          inkscape:export-xdpi="179.66"
          inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Projects\tf2_iphone\youtube_114x114png.png"
          style="fill:#89411d;fill-opacity:1"
          id="g3212-7-5-9"
-         transform="matrix(1.0018852,0,0,1.0018852,-372.60907,62.520676)">
+         transform="matrix(0.99994686,0,0,0.99994686,-124.29912,263.07909)">
         <path
            clip-rule="evenodd"
            d="m 461.78177,216.36219 h 37 c 5.523,0 10,4.477 10,10 v 37 c 0,5.523 -4.477,10 -10,10 h -37 c -5.523,0 -10,-4.477 -10,-10 v -37 c 0,-5.523 4.477,-10 10,-10 z"
@@ -97,7 +112,7 @@
          inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Projects\tf2_iphone\youtube_114x114png.png"
          style="fill:#5a5a5a;fill-opacity:1;stroke:none"
          id="g3212-7-5-2-8"
-         transform="matrix(0.87649764,0,0,0.87649764,-312.38769,93.223352)">
+         transform="matrix(0.87480189,0,0,0.87480189,-64.194251,293.72236)">
         <path
            clip-rule="evenodd"
            d="m 461.78177,216.36219 h 37 c 5.523,0 10,4.477 10,10 v 37 c 0,5.523 -4.477,10 -10,10 h -37 c -5.523,0 -10,-4.477 -10,-10 v -37 c 0,-5.523 4.477,-10 10,-10 z"
@@ -107,53 +122,43 @@
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
       </g>
+      <rect
+         ry="1.1227831"
+         rx="1"
+         y="488.52997"
+         x="340.40643"
+         height="38.796589"
+         width="31.10144"
+         id="rect2958"
+         style="fill:#f6e7c1;fill-opacity:1;stroke:none" />
+      <g
+         id="g5326"
+         transform="translate(-63.694957,-9.1923886)">
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,504.09431 22.3941,0"
+           id="path4906-5" />
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,508.4733 22.3941,0"
+           id="path4906-2-4" />
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,512.85232 22.3941,0"
+           id="path4906-1-3" />
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,521.61036 22.3941,0"
+           id="path4906-8-1" />
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,525.98938 22.3941,0"
+           id="path4906-7-2" />
+        <path
+           style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 408.45506,517.23136 22.3941,0"
+           id="path4906-89-3" />
+      </g>
     </g>
-    <rect
-       style="fill:#f4722b;fill-opacity:1;stroke:none"
-       id="rect2857"
-       width="37.427444"
-       height="37.584076"
-       x="415.51562"
-       y="622.90912"
-       rx="2.73193"
-       ry="2.4405243" />
-    <rect
-       style="fill:#f6e7c1;fill-opacity:1;stroke:none"
-       id="rect2958"
-       width="31.10144"
-       height="30.803946"
-       x="418.67868"
-       y="626.7879"
-       rx="0.54638612"
-       ry="0.51251006" />
-    <path
-       style="fill:#cccccc;fill-opacity:1;stroke:none"
-       d="m 434.20204,619.77645 c -1.77559,0 -3.22731,1.39654 -3.31634,3.15005 0.0898,2.36935 -0.94041,4.20766 -2.64642,5.56039 l 0.038,0 2.60367,0 6.6968,0 2.60365,0 0.038,0 c -2.24582,-1.68351 -2.43633,-3.0084 -2.6583,-5.72906 -0.17022,-1.67347 -1.58613,-2.98138 -3.30446,-2.98138 -0.009,0 -0.0175,-6e-5 -0.0263,0 -0.01,-7e-5 -0.019,0 -0.0284,0 l -2e-5,0 z m 0.0262,1.57504 c 0.68281,0 1.23769,0.55486 1.23769,1.23767 0,0.68281 -0.55488,1.2353 -1.23769,1.2353 -0.68282,0 -1.23532,-0.55249 -1.23532,-1.2353 0,-0.68281 0.5525,-1.23767 1.23532,-1.23767 z"
-       id="path2863-7"
-       sodipodi:nodetypes="cccccccccsscccsssc" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,631.5696 22.3941,0"
-       id="path4906" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,635.94859 22.3941,0"
-       id="path4906-2" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,640.32761 22.3941,0"
-       id="path4906-1" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,649.08565 22.3941,0"
-       id="path4906-8" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,653.46467 22.3941,0"
-       id="path4906-7" />
-    <path
-       style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.03236,644.70665 22.3941,0"
-       id="path4906-89" />
   </g>
 </svg>

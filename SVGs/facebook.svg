@@ -61,6 +61,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8771"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -70,7 +77,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="6.2890371"
+     inkscape:cx="-4.3806058"
      inkscape:cy="19.641255"
      inkscape:document-units="px"
      inkscape:current-layer="g7299"
@@ -111,13 +118,13 @@
            id="g7299">
           <g
              transform="translate(69.401097,-60.55574)"
-             id="g4337-4">
+             id="g4337-4-8">
             <path
                inkscape:export-ydpi="349"
                inkscape:export-xdpi="349"
                inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Public\iconmontage.png"
                style="fill:#5a5a5a;fill-opacity:1;fill-rule:evenodd"
-               id="path3774-0-4-5-7-6-37-2-1-7-5"
+               id="path3774-0-4-5-7-6-37-2-1-7-5-1"
                d="m 615.442,334.72119 h 34.72807 c 5.18387,0 9.38597,4.20209 9.38597,9.38596 v 34.72807 c 0,5.18386 -4.2021,9.38597 -9.38597,9.38597 H 615.442 c -5.18386,0 -9.38596,-4.2021 -9.38596,-9.38597 v -34.72807 c 0,-5.18386 4.2021,-9.38596 9.38596,-9.38596 z"
                clip-rule="evenodd" />
             <rect
@@ -127,11 +134,11 @@
                x="606.52502"
                height="10.425406"
                width="53.376381"
-               id="rect7297-0-5"
-               style="fill:#333333;fill-opacity:1;stroke:none" />
+               id="rect7297-0-5-5"
+               style="fill:#89411d;fill-opacity:1;stroke:none" />
             <path
                sodipodi:nodetypes="cccccccccscccccccccccccccccccc"
-               id="path7189-9-1"
+               id="path7189-9-1-2"
                d="m 633.82589,374.60459 0,-11.15195 -2.98895,0 -2.98895,0 0,-3.66587 0,-3.83706 2.92916,0 3.01371,0.005 0.0666,-2.86937 c 0.20007,-3.79751 0.95157,-5.8288 2.86394,-7.74116 1.24926,-1.24927 1.90844,-1.60197 3.84761,-2.05875 3.33573,-0.51484 6.66979,-0.23679 10.00552,-0.32657 l 0,3.62854 0,3.62855 c -2.01076,-0.0211 -3.73853,-0.064 -5.4708,0.5573 -0.84726,0.48283 -1.46282,2.07804 -1.46889,3.80656 l -0.005,1.37106 3.34762,0 3.59734,0 0,3.8297 0,3.67323 -3.59734,0 -3.34762,0 0,11.15194 0,11.11888 -4.90188,0 -4.90186,0 0,-11.11888 2e-5,0 0,10e-6 z"
                style="fill:#f6e7c1;fill-opacity:1" />
             <path
@@ -140,7 +147,7 @@
                inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Public\iconmontage.png"
                style="fill:#f4722b;fill-opacity:1;fill-rule:evenodd"
                d="m 614.30604,332.984 c -5.523,0 -10,4.477 -10,10 l 0,37 c 0,5.52301 4.477,10 10,10 l 37,0 c 5.523,0 10,-4.47699 10,-10 l 0,-37 c 0,-5.523 -4.477,-10 -10,-10 l -37,0 z m 2.875,4.40625 31.25,0 c 4.66771,0 8.46875,3.76979 8.46875,8.4375 l 0,31.28125 c 0,4.66772 -3.80104,8.4375 -8.46875,8.4375 l -31.25,0 c -4.66771,0 -8.46875,-3.76978 -8.46875,-8.4375 l 0,-31.28125 c 0,-4.66771 3.80104,-8.4375 8.46875,-8.4375 z"
-               id="path3774-0-4-5-7-6-3-88-9-1-4-7" />
+               id="path3774-0-4-5-7-6-3-88-9-1-4-7-3" />
           </g>
         </g>
       </g>

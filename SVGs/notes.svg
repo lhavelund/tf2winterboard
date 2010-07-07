@@ -59,6 +59,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2881"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2940"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,11 +81,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="29.62705"
-     inkscape:cy="30.824316"
+     inkscape:zoom="2.828427"
+     inkscape:cx="-12.752323"
+     inkscape:cy="37.011315"
      inkscape:document-units="px"
-     inkscape:current-layer="g5274"
+     inkscape:current-layer="g5274-3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -145,31 +159,38 @@
              rx="1"
              ry="1.1227831" />
           <g
-             transform="translate(-63.694957,-9.1923886)"
-             id="g5326">
+             transform="translate(-20.246864,-4.9533037)"
+             id="g5326-1" />
+          <g
+             id="g2979"
+             transform="translate(1.03125,0.75000004)">
             <path
                id="path4906-5"
-               d="m 408.45506,504.09431 22.3941,0"
+               d="m 344.76008,493.13415 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                id="path4906-2-4"
-               d="m 408.45506,508.4733 22.3941,0"
+               d="m 344.76008,497.51314 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                id="path4906-1-3"
-               d="m 408.45506,512.85232 22.3941,0"
+               d="m 344.76008,501.89216 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                id="path4906-8-1"
-               d="m 408.45506,521.61036 22.3941,0"
+               d="m 344.76008,510.6502 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                id="path4906-7-2"
-               d="m 408.45506,525.98938 22.3941,0"
+               d="m 344.76008,515.02922 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                id="path4906-89-3"
-               d="m 408.45506,517.23136 22.3941,0"
+               d="m 344.76008,506.2712 22.3941,0"
+               style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               id="path4906-2-4-4"
+               d="m 344.76008,519.4299 22.3941,0"
                style="fill:none;stroke:#5a5a5a;stroke-width:0.99806529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           </g>
         </g>

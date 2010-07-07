@@ -14,7 +14,7 @@
    id="svg4596"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 14">
+   sodipodi:docname="twitter.svg">
   <title
      id="title4621">Team Fortress 2 WinterBoard: Twitter</title>
   <defs
@@ -33,6 +33,52 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6031"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6053"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3629-2">
+      <feGaussianBlur
+         id="feGaussianBlur3631-8"
+         stdDeviation="1.9268105"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6059">
+      <feGaussianBlur
+         id="feGaussianBlur6061"
+         stdDeviation="1.9268105"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6063">
+      <feGaussianBlur
+         id="feGaussianBlur6065"
+         stdDeviation="1.9268105"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6067">
+      <feGaussianBlur
+         id="feGaussianBlur6069"
+         stdDeviation="1.9268105"
+         inkscape:collect="always" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,17 +87,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="34.700419"
-     inkscape:cy="-8.8335905"
+     inkscape:zoom="1.4"
+     inkscape:cx="-186.53726"
+     inkscape:cy="-40.868613"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4522"
      showgrid="false"
-     inkscape:window-width="550"
-     inkscape:window-height="483"
-     inkscape:window-x="200"
-     inkscape:window-y="200"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4601">
     <rdf:RDF>
@@ -76,16 +122,15 @@
          clip-rule="evenodd"
          d="m -6.822582,454.75253 h 37 c 5.523,0 10,4.477 10,10 v 37 c 0,5.523 -4.477,10 -10,10 h -37 c -5.523,0 -10,-4.477 -10,-10 v -37 c 0,-5.523 4.477,-10 10,-10 z"
          id="path3774-0-9-9-6-4"
-         style="fill:#5a5a5a;fill-rule:evenodd;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#89411d;fill-rule:evenodd;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
          inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Projects\tf2_iphone\messages_114x114.png"
          inkscape:export-xdpi="180"
          inkscape:export-ydpi="180"
          transform="translate(422.09675,40.44096)" />
       <path
          style="fill:#f4722b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m -6.822562,454.75253 c -5.523,0 -10,4.477 -10,10 l 0,37 c 0,5.523 4.477,10 10,10 l 37,0 c 5.52301,0 10,-4.477 10,-10 l 0,-37 c 0,-5.523 -4.47699,-10 -10,-10 l -37,0 z m 2.875,4.40625 31.28125,0 c 4.66773,0 8.4375,3.76978 8.4375,8.4375 l 0,31.28125 c 0,4.66772 -3.76977,8.46875 -8.4375,8.46875 l -31.28125,0 c -4.66771,0 -8.4375,-3.80103 -8.4375,-8.46875 l 0,-31.28125 c 0,-4.66772 3.76979,-8.4375 8.4375,-8.4375 z"
-         id="path3774-0-4-5-7-7-0-1-2-0-8"
-         transform="translate(422.09675,40.44096)" />
+         d="m 415.27418,495.19349 c -5.523,0 -10,4.477 -10,10 l 0,37 c 0,5.523 4.477,10 10,10 l 37,0 c 5.52301,0 10,-4.477 10,-10 l 0,-37 c 0,-5.523 -4.47699,-10 -10,-10 l -37,0 z m 2.875,4.40625 31.28125,0 c 4.66773,0 8.4375,3.76978 8.4375,8.4375 l 0,31.28125 c 0,4.66772 -3.76977,8.46875 -8.4375,8.46875 l -31.28125,0 c -4.66771,0 -8.4375,-3.80103 -8.4375,-8.46875 l 0,-31.28125 c 0,-4.66772 3.76979,-8.4375 8.4375,-8.4375 z"
+         id="path3774-0-4-5-7-7-0-1-2-0-8" />
       <path
          sodipodi:nodetypes="ccccssssccccccccsssssscccccccccccc"
          id="path2872"

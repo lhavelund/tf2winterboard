@@ -14,7 +14,7 @@
    id="svg7424"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 39">
+   sodipodi:docname="windows_live_messenger.svg">
   <title
      id="title7459">Team Fortress 2 WinterBoard: Windows Live Messenger</title>
   <defs
@@ -33,6 +33,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8894"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,13 +48,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="49.19391"
-     inkscape:cy="15.095257"
+     inkscape:zoom="2.8"
+     inkscape:cx="26.524377"
+     inkscape:cy="17.533343"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="550"
+     inkscape:window-width="575"
      inkscape:window-height="483"
      inkscape:window-x="225"
      inkscape:window-y="225"
@@ -93,7 +100,7 @@
          id="path3774-0-4-5-7-7-0-1-2-0-8-1-6" />
       <g
          style="stroke:#f6e7c1;stroke-opacity:1"
-         transform="matrix(1.4382999,0,0,1.4382999,-425.24226,-189.7392)"
+         transform="matrix(1.4382999,0,0,1.4382999,-427.11726,-189.7392)"
          id="g7283">
         <path
            d="m 784.3855,378.89857 c 0,0 -0.683,2.096 -2.072,2.615 -1.391,0.518 -4.371,-0.596 -7.252,-4.385 -2.881,-3.791 -4.953,-7.277 -4.271,-8.566 0.684,-1.287 5.029,0.707 7.531,2.275 2.502,1.567 5.004,3.133 6.064,8.061 z"

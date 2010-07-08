@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57"
+   height="57"
+   id="svg4691"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="im_plus.svg">
+  <title
+     id="title4746">Team Fortress 2 WinterBoard: IM+ Lite</title>
+  <defs
+     id="defs4693">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4699" />
+    <inkscape:perspective
+       id="perspective4677"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4756"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4851"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3120"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4932"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6432"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6454"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6521"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6555"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6613"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6744"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="58.740516"
+     inkscape:cy="-4.9239362"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3181"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="17.991072,18.348214"
+       id="guide6545" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4696">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Team Fortress 2 WinterBoard: IM+ Lite</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-334.35714,-455.29075)">
+    <g
+       id="g3181"
+       transform="translate(54.971573,163.32366)"
+       inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Public\iconmontage.png"
+       inkscape:export-xdpi="349.72098"
+       inkscape:export-ydpi="349.72098">
+      <path
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Projects\tf2_iphone\messages_114x114.png"
+         style="font-size:10.31457615000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f4722b;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:TF2 Build;-inkscape-font-specification:TF2 Build"
+         id="path3774-0"
+         d="m 289.38557,291.96709 h 37 c 5.523,0 10,4.477 10,10 v 37 c 0,5.523 -4.477,10 -10,10 h -37 c -5.523,0 -10,-4.477 -10,-10 v -37 c 0,-5.523 4.477,-10 10,-10 z"
+         clip-rule="evenodd" />
+      <path
+         id="path3774-0-4-5-7-6-3-1-0-3-3"
+         d="m 289.38557,291.96709 c -5.523,0 -10,4.477 -10,10 l 0,37 c 0,5.52301 4.477,10 10,10 l 37,0 c 5.523,0 10,-4.47699 10,-10 l 0,-37 c 0,-5.523 -4.477,-10 -10,-10 l -37,0 z m 2.875,4.40625 31.25,0 c 4.66772,0 8.46875,3.76979 8.46875,8.4375 l 0,31.28125 c 0,4.66772 -3.80103,8.4375 -8.46875,8.4375 l -31.25,0 c -4.66771,0 -8.46875,-3.76978 -8.46875,-8.4375 l 0,-31.28125 c 0,-4.66771 3.80104,-8.4375 8.46875,-8.4375 z"
+         style="font-size:10.31457615000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f6e7c1;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:TF2 Build;-inkscape-font-specification:TF2 Build"
+         inkscape:export-filename="C:\Users\Lasse\Documents\My Dropbox\Public\iconmontage.png"
+         inkscape:export-xdpi="349"
+         inkscape:export-ydpi="349" />
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#89411d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:TF2 Build"
+         x="381.77048"
+         y="317.13403"
+         id="text3722"><tspan
+           y="317.13403"
+           x="381.77048"
+           sodipodi:role="line"
+           id="tspan3724" /></text>
+      <path
+         id="path6511"
+         d="m 307.89628,311.40064 c -11.97278,0 -17.45493,4.8305 -21.69089,9.06645 3.33636,3.33636 9.71811,9.06645 21.69089,9.06645 11.97278,0 18.3331,-5.73009 21.66946,-9.06645 -4.23596,-4.23595 -9.69668,-9.06645 -21.66946,-9.06645 z"
+         style="font-size:10.31457615000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#89411d;fill-opacity:1;stroke:none;font-family:TF2 Build;-inkscape-font-specification:TF2 Build" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6570"
+         y="325.86597"
+         x="300.04419"
+         style="font-size:15.44725513000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#f6e7c1;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:TF2 Build"
+         xml:space="preserve"><tspan
+           style="fill:#f6e7c1;fill-opacity:1;font-family:TF2;-inkscape-font-specification:TF2"
+           y="325.86597"
+           x="300.04419"
+           id="tspan6572"
+           sodipodi:role="line">im+</tspan></text>
+    </g>
+  </g>
+</svg>

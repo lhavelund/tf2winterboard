@@ -14,7 +14,7 @@
    id="svg4691"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="photos.svg">
+   sodipodi:docname="messages.svg">
   <title
      id="title4746">Team Fortress 2 WinterBoard: Messages</title>
   <defs
@@ -47,6 +47,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3963"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="-6.7877246"
-     inkscape:cy="29.732009"
+     inkscape:zoom="2.8"
+     inkscape:cx="63.10511"
+     inkscape:cy="52.922614"
      inkscape:document-units="px"
      inkscape:current-layer="text4536-8"
      showgrid="false"
@@ -144,6 +151,27 @@
                x="365.50003"
                sodipodi:role="line"
                id="tspan3724" /></text>
+        </g>
+        <g
+           transform="translate(-2.9999999e-6,0)"
+           style="font-size:10.31457615px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TF2 Build;-inkscape-font-specification:TF2 Build"
+           id="g3945">
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;fill:#89411d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+             x="381.77048"
+             y="317.13403"
+             id="text3722-2"><tspan
+               y="317.13403"
+               x="381.77048"
+               sodipodi:role="line"
+               id="tspan3724-4" /></text>
+          <path
+             sodipodi:nodetypes="csccc"
+             transform="translate(279.38557,291.96709)"
+             id="path3923"
+             d="m 11.819196,46.419643 c 0,0 2.750352,-2.367658 5.004816,-4.845336 1.83372,-2.015277 0.262199,-2.817294 0.262199,-2.817294 l 5.056646,1.72513 c -2.891182,2.664085 -6.460155,5.433098 -10.323661,5.9375 z"
+             style="fill:#f4722b;fill-opacity:1;stroke:none" />
         </g>
       </g>
     </g>

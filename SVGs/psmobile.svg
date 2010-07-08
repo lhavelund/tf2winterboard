@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57"
+   height="57"
+   id="svg42458"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="pandora.svg">
+  <title
+     id="title42511">Team Fortress 2 WinterBoard: Photoshop Mobile</title>
+  <defs
+     id="defs42460">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective42466" />
+    <inkscape:perspective
+       id="perspective42436"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective42529"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective43114"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-127.13167"
+     inkscape:cy="51.8307"
+     inkscape:document-units="px"
+     inkscape:current-layer="g42409"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata42463">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Team Fortress 2 WinterBoard: Photoshop Mobile</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-234.35714,-532.43361)">
+    <g
+       transform="translate(-438.18468,213.12747)"
+       id="g42409">
+      <path
+         style="fill:#f4722b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 10 0 C 4.477 0 0 4.477 0 10 L 0 47 C 0 52.523 4.477 57 10 57 L 47 57 C 52.52301 57 57 52.523 57 47 L 57 10 C 57 4.477 52.52301 0 47 0 L 10 0 z "
+         transform="translate(672.54182,319.30614)"
+         id="path3774-0-9-9-6-4-71-4-4" />
+      <path
+         style="fill:#f6e7c1;fill-opacity:1;stroke:none"
+         d="m 690.47932,334.82264 c -5.54,0 -10,4.25739 -10,9.5625 0,4.84983 3.72139,8.84911 8.59375,9.5 l 12.25,10.1875 0,-10.09375 10.28125,0 c 5.54,0 10,-4.28865 10,-9.59375 0,-5.30511 -4.46,-9.5625 -10,-9.5625 l -21.125,0 z m 19.9375,1.90625 c 4.24075,0 7.6875,3.41549 7.6875,7.65625 0,4.24075 -3.44675,7.6875 -7.6875,7.6875 -4.24076,0 -7.6875,-3.44675 -7.6875,-7.6875 0,-4.24076 3.44674,-7.65625 7.6875,-7.65625 z"
+         id="rect42572" />
+    </g>
+  </g>
+</svg>
